@@ -64,7 +64,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
   author: process.env.PACK_AUTHER || "Bicom Lab",
-  packname: process.env.PACK_NAME || "🇸🇳🇯🇵💫🔋. illusion",
+  packname: process.env.PACK_NAME || "🇸🇳🇯🇵💫🔋.illusion",
   botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
   ownername: process.env.OWNER_NAME || "Bicom Lab",
   errorChat: process.env.ERROR_CHAT || "923192173398",
